@@ -8,7 +8,7 @@ This project seeks to **uncover operational blind spots and inform investor-read
 
 ---
 
-## 📈 Executive Summary
+##  Executive Summary
 
 | Metric                            | Value                   | Insight                                                                 |
 |----------------------------------|--------------------------|-------------------------------------------------------------------------|
@@ -29,6 +29,8 @@ This project seeks to **uncover operational blind spots and inform investor-read
 The business has onboarded a total of 5,000 subscribers, with a promising 4,887 of them placing orders, translating to a 97.7% conversion. Even more impressive, 4,530 of these customers are repeat buyers, indicating a loyalty rate of over 93%.
 
 However, there’s a worrying trend. While monthly active users average 1,418, the sign-up funnel has dried up since the end of 2023. The customer base is no longer growing. Instead, churn is quietly eating into the numbers while new signups are at a standstill. The lack of fresh acquisitions puts future revenue and scalability at risk.
+
+  ![Subscribers](./Subscribers.png)
 
 >  **Are our operations efficient and scalable?**  
 #### 2.Operational Efficiency
