@@ -29,20 +29,22 @@ This project seeks to **uncover operational blind spots and inform investor-read
 The business has onboarded a total of 5,000 subscribers, with a promising 4,887 of them placing orders, translating to a 97.7% conversion. Even more impressive, 4,530 of these customers are repeat buyers, indicating a loyalty rate of over 93%.
 
 However, there’s a worrying trend. While monthly active users average 1,418, the sign-up funnel has dried up since the end of 2023. The customer base is no longer growing. Instead, churn is quietly eating into the numbers while new signups are at a standstill. The lack of fresh acquisitions puts future revenue and scalability at risk.
-
-  ![Subscribers](./Subscribers.png)
+![Subscribers](Subscribers.png)
 
 >  **Are our operations efficient and scalable?**  
 #### 2.Operational Efficiency
 One of the most critical areas of concern is logistics. Despite an internal target of 45-minute deliveries, the average delivery time stands at 54 minutes. Even worse, only 37% of deliveries are completed on time, meaning nearly two-thirds arrive late.
-
+![Delivery Time](Delivery Time.png)
 Whether it’s Kano, Lagos, Abuja, or any of the other cities, the data shows consistently underperforming delivery operations. The delivery partners—Choplife Fleet, GIG, and Kwik—are all delivering at the same slow pace. Whether it’s breakfast, lunch, or dinner, delays are the norm, not the exception.
+![Delivery_Time_Location](Delivery_Time_location.png)
 
 #### 3.Payment Preferences
 When it comes to how customers pay, the platform seems to be doing well. Payments are evenly split among bank transfers (6.9K orders), cards (6.6K), and wallets (6.5K). This balanced spread shows good adoption of multiple payment channels and indicates flexibility for users.
+![Payment](Payment.png)
 
 #### 4. Geographic Performance
 The dashboard also highlights regional trends. Abuja, Ibadan, and Enugu are the top three performing cities in terms of revenue, each bringing in over ₦29 million. However, the difference between the top and bottom cities is marginal, indicating a fairly even distribution of demand across locations.
+![Revenue_Location](Revenue_Location.png)
 
 But revenue isn’t the only performance marker. Delivery efficiency across all cities is poor, with on-time delivery rates barely scraping 35% to 39%, regardless of the city. This shows systemic operational issues—not isolated city-level problems.
 
@@ -53,12 +55,14 @@ But revenue isn’t the only performance marker. Delivery efficiency across all 
 
  #### 5. Customer Behavior
 Choplife has done a great job keeping existing customers happy. A whopping 93% are repeat users, with only 7% having placed just one order. But the flip side is clear: without new signups coming in, this loyalty won’t be enough to fuel future growth.
-
+![Repeat](Repeat.png)
 The high retention is encouraging, but the flatline in user acquisition post-2023 highlights a significant gap in the company’s customer lifecycle strategy.
+![Sign Up](Signup_Trend.png)
  #### 6. Revenue and Financial Health
 At first glance, ₦286 million in total revenue sounds promising. But a deeper look into the financials reveals a red flag: marketing spend sits at a massive ₦781 million, almost three times the revenue earned.
 
 For every new customer gained, Choplife spends ₦156,250, but each customer brings in only ₦57,200. That’s a customer acquisition cost (CAC) that overshadows the return by 2.7x—a deeply unsustainable model.
+![Revenue_CAC](Revenue_CAC.png)
 
 This imbalance shows that Choplife is spending heavily to acquire customers but not getting enough back in lifetime value.
 
@@ -66,6 +70,7 @@ This imbalance shows that Choplife is spending heavily to acquire customers but 
 The marketing strategy is where the business seems most vulnerable. With over ₦781 million spent, platforms like Twitter and Instagram saw the largest budgets—but conversion rates remained dismally low.
 
 From a reach of 151.5 million, only 3.04 million people converted (2.01%). Even worse, just 0.005 million subscribers came out of that (0.16%).
+![Marketing_Performance](Marketing_Performance.png)
 
 In essence, the company is reaching millions, but almost none of that is translating into paying users. Marketing ROI is dangerously low, and continued spending at this rate will only widen the loss margins.
 
