@@ -35,10 +35,12 @@ However, there’s a worrying trend. While monthly active users average 1,418, t
 >  **Are our operations efficient and scalable?**  
 #### 2.Operational Efficiency
 One of the most critical areas of concern is logistics. Despite an internal target of 45-minute deliveries, the average delivery time stands at 54 minutes. Even worse, only 37% of deliveries are completed on time, meaning nearly two-thirds arrive late.
-![Delivery Time](Delivery Time.png)
+
+![Delivery Time](Delivery_Time.png)
+
 Whether it’s Kano, Lagos, Abuja, or any of the other cities, the data shows consistently underperforming delivery operations. The delivery partners—Choplife Fleet, GIG, and Kwik—are all delivering at the same slow pace. Whether it’s breakfast, lunch, or dinner, delays are the norm, not the exception.
 
-![Delivery_Time_Location](Delivery_Time_location.png)
+![Delivery_Time_Location](Delivery_Time_Location.png)
 
 #### 3.Payment Preferences
 When it comes to how customers pay, the platform seems to be doing well. Payments are evenly split among bank transfers (6.9K orders), cards (6.6K), and wallets (6.5K). This balanced spread shows good adoption of multiple payment channels and indicates flexibility for users.
@@ -123,7 +125,7 @@ In essence, the company is reaching millions, but almost none of that is transla
  
 ##  Dashboard Preview
 
- [View the full dashboard in PDF](.Chop_life_BI_dashboard.pdf)  
+ [View the full dashboard in PDF](Chop_life_BI_dashboard.pdf)  
  Explore the interactive and dynamic dashboard in [Power BI here](https://app.powerbi.com/view?r=eyJrIjoiNDlhMTJhZmUtYTYyYy00MmYwLWFjZjQtYTUyMzVmZWMxNzNjIiwidCI6IjJjZDk3YzU4LTY0ODAtNDEzYS1hNjMyLWI1OTNiMDZkZjgyOCJ9).
  
 
